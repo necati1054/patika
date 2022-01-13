@@ -5,3 +5,7 @@
 table{
     width: 90%;
 }
+table tbody tr{
+    background-color:  #EEEEEE;
+    width: 1000px;
+}
