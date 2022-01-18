@@ -1,5 +1,5 @@
 # patika
-patika çalışmalarımın tutulduğu kısım
+patika çalışmalarımın tutulduğu kısım | Necati ARMAN
 
 ## [HTML ÖDEV-1](https://necati1054.github.io/patika/HTML/Ödev1)
 ## [HTML ÖDEV-2](https://necati1054.github.io/patika/HTML/Ödev2)
