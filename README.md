@@ -11,3 +11,5 @@ patika çalışmalarımın tutulduğu kısım | Necati ARMAN
 ## [CSS ÖDEV-3](https://necati1054.github.io/patika/css/Ödev3)
 
 ## [BS ÖDEV-1](https://necati1054.github.io/patika/Bootstrap/Odev1)
+
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=necati1054)](https://github.com/anuraghazra/github-readme-stats)
