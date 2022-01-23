@@ -3,7 +3,7 @@ input::placeholder {
   padding-left: 24px;
   background: url(../assets/search-solid.svg) no-repeat;
   background-position: 0%;
-  color: #e7e7e7 !important;
+  color: #6f6f6f !important;
 }
 
 input.empty {
@@ -56,7 +56,7 @@ input.empty {
 }
 
 .color{
-  background-color:  #e7e7e7;
+  color: rgba(var(--f52,142,142,142),1);
 }
 body{
   background-color: #fafafa;
