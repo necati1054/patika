@@ -11,4 +11,4 @@ patika çalışmalarımın tutulduğu kısım | Necati ARMAN
 ## [CSS ÖDEV-3](https://necati1054.github.io/patika/css/Ödev3)
 
 ## [BS ÖDEV-1](https://necati1054.github.io/patika/Bootstrap/Odev1)
-## [BS ÖDEV-1](https://necati1054.github.io/patika/Bootstrap/Odev2)
+## [BS ÖDEV-2](https://necati1054.github.io/patika/Bootstrap/Odev2)
