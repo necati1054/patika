@@ -12,3 +12,4 @@ patika çalışmalarımın tutulduğu kısım | Necati ARMAN
 
 ## [BS ÖDEV-1](https://necati1054.github.io/patika/Bootstrap/Odev1)
 ## [BS ÖDEV-2](https://necati1054.github.io/patika/Bootstrap/Odev2)
+## [BS MediumClone](https://necati1054.github.io/patika/Bootstrap/MediumClone)
