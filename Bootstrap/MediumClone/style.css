@@ -1,0 +1,23 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.yellow{
+    background-color: #FFC017;;
+}
+
+.br-16{
+    border-radius: 16px;
+}
+
+.bbs1{
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.ab > li{
+    margin-bottom: 10px;
+}
+
+.fs-12{
+    font-size: 12px;
+}
