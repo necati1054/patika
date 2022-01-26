@@ -1,0 +1,151 @@
+body {
+    background-color: #f3f2ef;
+}
+
+.navbar-nav > a > li {
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.h-navbar{
+    height: 53px;
+    width: 100%;
+    max-width: 1128px;
+}
+
+.logo i {   
+    color: #0a66c2;
+    font-size: 2.3rem;
+}
+
+.s-form input::placeholder {
+    font-size: 14px;
+    color: gray;
+    background: 1%/7% url(asset/search-solid.svg) no-repeat;
+    padding-left: 25px;
+}
+.wh-23{
+    width: 23px;
+    height: 23px;
+}
+
+.navbar-nav > .nav-item{
+    margin-right: 5px;
+}
+
+.bb-2{
+    border-bottom: 2px solid black;
+}
+
+.navbar-nav > li > i{
+    width: 80px;
+    height: 20px;
+}
+
+.s-form{
+    margin-left: -50px;
+    padding-right: 50px;
+    padding-top: -500px;
+}
+
+.bg-ef{
+    background: #efefef;
+}
+
+.sbg{
+    background-image: url(https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Falejandrocremades%2Ffiles%2F2018%2F12%2Fbusiness-3605367_1920-1200x741.jpg);
+    height: 53px;
+}
+
+.spp{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    border: 2px solid white;
+    z-index: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wh-32{
+    width: 32px;
+    height: 32px;
+}
+
+.aaa{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -25px;
+    margin-left: 37px;
+}
+
+.aaa2{
+    font-size: 13px;
+    font-weight: bold;
+    color: gray;
+    margin-left: 38px;
+}
+
+.mt-75{
+    margin-top: 75px;
+}
+.br-10{
+    border-radius: 10px;
+}
+
+.wh-45{
+    width: 45px;
+    height: 45px;
+}
+
+.b-1{
+    border: 1px solid #222222;
+}
+
+.p-10{
+    padding: 10px;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.postphoto{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.fs-12{
+    font-size: 12px;
+}
+
+.mediatext {
+    width: max-content;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5f5f5f;
+}
+
+.fs-i-1-2 {
+    font-size: 1.2rem;
+}
+
+.w4h3 {
+    width: 40px !important;
+    height: 30px !important;
+}
+
+.sticky{
+    position: sticky;
+    top: 4rem;
+}
+
+.mediatext:hover{
+    background-color: #A9A9A9;
+}
