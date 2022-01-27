@@ -149,3 +149,32 @@ body {
 .mediatext:hover{
     background-color: #A9A9A9;
 }
+
+.btn-outline-dark{
+    font-size: 15px;
+    color: #69e0e6;
+    border-color: #69e0e6;
+    border-radius: 32px;
+}
+
+.btn-outline-dark:hover{
+    background-color: #69e0e6;
+    border-color: #69e0e6;
+}
+
+.link-s{
+    font-size: 12px;
+    color: #5f5f5f;;
+}
+
+.fot-pp{
+    width: 30px; 
+    height: 30px; 
+    border-radius: 50%;
+}
+
+.fot-m{
+    font-size: 14px; 
+    font-weight: bold; 
+    font-family:Arial, Helvetica, sans-serif;
+}
