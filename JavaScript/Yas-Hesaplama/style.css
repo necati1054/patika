@@ -1,0 +1,12 @@
+*{
+    text-align:center;
+  }
+  label{
+    font-size:20px;
+    padding:20px;
+  }
+  div{
+    margin:30px;
+    font-size:25px;
+    color:blue;
+  }
