@@ -37,5 +37,5 @@ sill.addEventListener('click', counterremove)
 function counterremove(){
     localStorage.setItem('counter',0)
     counterDOM.innerHTML = 0
-    counter =0;
+    counter = 0;
 }
