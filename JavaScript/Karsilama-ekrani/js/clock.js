@@ -12,7 +12,7 @@ function zaman(){
     let saat = tarih.getHours();
     let dakika = tarih.getMinutes();
     let saniye = tarih.getSeconds();
-    let anlık = saat + ":" + dakika + ":" + saniye + " " + günler[gün];
+    let anlık = saat + ":" + dakika + ":" + saniye + " " + günler[gün-1];
     return anlık;
 }
 
