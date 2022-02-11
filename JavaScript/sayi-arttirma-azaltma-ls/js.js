@@ -29,6 +29,7 @@ Rname.addEventListener('click',sil)
 
 function sil(){
     localStorage.removeItem('FulName')
+    namee.innerHTML=why()
 }
 
 sill.addEventListener('click', counterremove)
@@ -36,4 +37,5 @@ sill.addEventListener('click', counterremove)
 function counterremove(){
     localStorage.setItem('counter',0)
     counterDOM.innerHTML = 0
+    counter =0;
 }

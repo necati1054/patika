@@ -14,3 +14,6 @@ patika çalışmalarımın tutulduğu kısım | Necati ARMAN
 ## [BS ÖDEV-2](https://necati1054.github.io/patika/Bootstrap/Odev2)
 ## [BS MediumClone](https://necati1054.github.io/patika/Bootstrap/MediumClone)
 ## [BS ÖDEV-3](https://necati1054.github.io/patika/Bootstrap/Odev3)
+
+## [JS Karsilama-ekrani](https://necati1054.github.io/patika/JavaScript/Karsilama-ekrani/)
+## [JS sayi-arttirma-azaltma-ls](https://necati1054.github.io/patika/JavaScript/sayi-arttirma-azaltma-ls/)
