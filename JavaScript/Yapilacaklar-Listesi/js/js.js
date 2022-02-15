@@ -62,6 +62,11 @@ function indexsil(index){
 
 function ciz(index){
     let a = document.getElementById(index)
-    a.style.textDecoration="line-through"
-    a.style.backgroundColor="red"
+    if(a.style.textDecoration=="line-through"){
+        a.style.textDecoration="none"
+        a.style.backgroundColor="#eee"
+    }else{
+        a.style.textDecoration="line-through"
+        a.style.backgroundColor="red"
+    }
 }
