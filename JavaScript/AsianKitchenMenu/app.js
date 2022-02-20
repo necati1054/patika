@@ -86,11 +86,15 @@ let btn = document.querySelector(".btn-container")
 
 const MButton = () => 
 `
-<button type="button" class="btn btn-outline-dark me-3 ">All</button>
-<button type="button" class="btn btn-outline-dark me-3 ">Korea</button>
-<button type="button" class="btn btn-outline-dark me-3 ">Japan</button>
-<button type="button" class="btn btn-outline-dark">China</button>
+<button type="button" class="btn btn-outline-dark me-3" id="all">All</button>
+<button type="button" class="btn btn-outline-dark me-3" id="korea">Korea</button>
+<button type="button" class="btn btn-outline-dark me-3" id="japan">Japan</button>
+<button type="button" class="btn btn-outline-dark" id="china">China</button>
 
 `
 
 btn.innerHTML=MButton();
+
+
+
+console.log(menu.map(menu[2].category))
