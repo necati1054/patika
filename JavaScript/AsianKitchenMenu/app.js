@@ -82,19 +82,46 @@ const menu = [
   },
 ]
 
-let btn = document.querySelector(".btn-container")
+const section = document.querySelector(".section-center");
+const btn = document.querySelector(".btn-container");
 
-const MButton = () => 
-`
-<button type="button" class="btn btn-outline-dark me-3" id="all">All</button>
-<button type="button" class="btn btn-outline-dark me-3" id="korea">Korea</button>
-<button type="button" class="btn btn-outline-dark me-3" id="japan">Japan</button>
-<button type="button" class="btn btn-outline-dark" id="china">China</button>
+const categori = menu.reduce(
+  (values, item) => {
+    if (!values.includes(item.category)) {
+      values.push(item.category);
+    }
+    return values;
+  },
+  ["All"]
+);
 
-`
+const categorys = () => {
+  const categoryBtns = categori
+    .map((category) => {
+      return `<button class="btn btn-outline-dark btn-item" data-id=${category}>${category}</button>`;
+    })
+    .join("");
 
-btn.innerHTML=MButton();
+  btn.innerHTML = categoryBtns;
+  const filterBtns = document.querySelectorAll(".btn-item");
 
+  //filter menu
+  filterBtns.forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      const category = e.currentTarget.dataset.id;
+      console.log(category);
+      const menuCategory = menu.filter((menuItem) => {
+        if (menuItem.category === category) {
+          return menuItem;
+        }
+      });
+      if (category === "All") {
+        menuList(menu);
+      } else {
+        menuList(menuCategory);
+      }
+    });
+  });
+};
 
-
-console.log(menu.map(menu[2].category))
+categorys()
