@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Değişkenler\bin\Debug\net6.0\Değişkenler.exe
+C:\Users\arman\Desktop\patika\c#\Değişkenler\bin\Debug\net6.0\Değişkenler.deps.json
+C:\Users\arman\Desktop\patika\c#\Değişkenler\bin\Debug\net6.0\Değişkenler.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Değişkenler\bin\Debug\net6.0\Değişkenler.dll
+C:\Users\arman\Desktop\patika\c#\Değişkenler\bin\Debug\net6.0\Değişkenler.pdb
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.dll
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\refint\Değişkenler.dll
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.pdb
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\Değişkenler.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Değişkenler\obj\Debug\net6.0\ref\Değişkenler.dll
