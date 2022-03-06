@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.exe
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.deps.json
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\refint\Tip_Donusumleri.dll
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Tip_Donusumleri\obj\Debug\net6.0\ref\Tip_Donusumleri.dll
