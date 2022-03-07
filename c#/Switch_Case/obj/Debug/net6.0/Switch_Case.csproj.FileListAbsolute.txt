@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Switch_Case\bin\Debug\net6.0\Switch_Case.exe
+C:\Users\arman\Desktop\patika\c#\Switch_Case\bin\Debug\net6.0\Switch_Case.deps.json
+C:\Users\arman\Desktop\patika\c#\Switch_Case\bin\Debug\net6.0\Switch_Case.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Switch_Case\bin\Debug\net6.0\Switch_Case.dll
+C:\Users\arman\Desktop\patika\c#\Switch_Case\bin\Debug\net6.0\Switch_Case.pdb
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.dll
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\refint\Switch_Case.dll
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.pdb
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\Switch_Case.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Switch_Case\obj\Debug\net6.0\ref\Switch_Case.dll
