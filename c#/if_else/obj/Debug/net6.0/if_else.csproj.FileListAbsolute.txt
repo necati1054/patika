@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\if_else\bin\Debug\net6.0\if_else.exe
+C:\Users\arman\Desktop\patika\c#\if_else\bin\Debug\net6.0\if_else.deps.json
+C:\Users\arman\Desktop\patika\c#\if_else\bin\Debug\net6.0\if_else.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\if_else\bin\Debug\net6.0\if_else.dll
+C:\Users\arman\Desktop\patika\c#\if_else\bin\Debug\net6.0\if_else.pdb
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.dll
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\refint\if_else.dll
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.pdb
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\if_else.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\if_else\obj\Debug\net6.0\ref\if_else.dll
