@@ -1,19 +1,19 @@
 ﻿using System;
 
-// try
-// {
-// Console.WriteLine("bir sayı giriniz");
-// int sayı = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("sayı:"+ sayı);
-// }
-// catch(Exception ex)
-// {
-//     Console.WriteLine("hata:"+ex.Message.ToString());
-// }
-// finally
-// {
-//     Console.WriteLine("İşlem tamamlandı");
-// }
+try
+{
+Console.WriteLine("bir sayı giriniz");
+int sayı = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("sayı:"+ sayı);
+}
+catch(Exception ex)
+{
+    Console.WriteLine("hata:"+ex.Message.ToString());
+}
+finally
+{
+    Console.WriteLine("İşlem tamamlandı");
+}
 
 
 try
