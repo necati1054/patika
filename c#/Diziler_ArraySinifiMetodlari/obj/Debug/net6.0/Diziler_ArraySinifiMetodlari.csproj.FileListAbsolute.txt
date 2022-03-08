@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\bin\Debug\net6.0\Diziler_ArraySinifiMetodlari.exe
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\bin\Debug\net6.0\Diziler_ArraySinifiMetodlari.deps.json
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\bin\Debug\net6.0\Diziler_ArraySinifiMetodlari.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\bin\Debug\net6.0\Diziler_ArraySinifiMetodlari.dll
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\bin\Debug\net6.0\Diziler_ArraySinifiMetodlari.pdb
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.dll
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\refint\Diziler_ArraySinifiMetodlari.dll
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.pdb
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\Diziler_ArraySinifiMetodlari.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Diziler_ArraySinifiMetodlari\obj\Debug\net6.0\ref\Diziler_ArraySinifiMetodlari.dll
