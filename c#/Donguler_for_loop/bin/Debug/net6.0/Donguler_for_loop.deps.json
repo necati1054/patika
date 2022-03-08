@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Donguler_for_loop/1.0.0": {
+        "runtime": {
+          "Donguler_for_loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler_for_loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
