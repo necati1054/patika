@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\bin\Debug\net6.0\Donguler_while_foreach.exe
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\bin\Debug\net6.0\Donguler_while_foreach.deps.json
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\bin\Debug\net6.0\Donguler_while_foreach.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\bin\Debug\net6.0\Donguler_while_foreach.dll
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\bin\Debug\net6.0\Donguler_while_foreach.pdb
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.dll
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\refint\Donguler_while_foreach.dll
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.pdb
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\Donguler_while_foreach.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Donguler_while_foreach\obj\Debug\net6.0\ref\Donguler_while_foreach.dll
