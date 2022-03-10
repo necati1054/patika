@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\bin\Debug\net6.0\Metotlar_Extension_Rekürsif.exe
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\bin\Debug\net6.0\Metotlar_Extension_Rekürsif.deps.json
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\bin\Debug\net6.0\Metotlar_Extension_Rekürsif.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\bin\Debug\net6.0\Metotlar_Extension_Rekürsif.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\bin\Debug\net6.0\Metotlar_Extension_Rekürsif.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\refint\Metotlar_Extension_Rekürsif.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\Metotlar_Extension_Rekürsif.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Extension_Rekürsif\obj\Debug\net6.0\ref\Metotlar_Extension_Rekürsif.dll
