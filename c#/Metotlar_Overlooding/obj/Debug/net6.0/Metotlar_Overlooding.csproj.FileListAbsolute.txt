@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\bin\Debug\net6.0\Metotlar_Overlooding.exe
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\bin\Debug\net6.0\Metotlar_Overlooding.deps.json
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\bin\Debug\net6.0\Metotlar_Overlooding.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\bin\Debug\net6.0\Metotlar_Overlooding.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\bin\Debug\net6.0\Metotlar_Overlooding.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\refint\Metotlar_Overlooding.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\Metotlar_Overlooding.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar_Overlooding\obj\Debug\net6.0\ref\Metotlar_Overlooding.dll
