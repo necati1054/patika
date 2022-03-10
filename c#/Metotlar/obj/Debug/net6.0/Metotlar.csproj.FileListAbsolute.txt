@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Metotlar\bin\Debug\net6.0\Metotlar.exe
+C:\Users\arman\Desktop\patika\c#\Metotlar\bin\Debug\net6.0\Metotlar.deps.json
+C:\Users\arman\Desktop\patika\c#\Metotlar\bin\Debug\net6.0\Metotlar.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Metotlar\bin\Debug\net6.0\Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar\bin\Debug\net6.0\Metotlar.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\refint\Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.pdb
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\Metotlar.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Metotlar\obj\Debug\net6.0\ref\Metotlar.dll
