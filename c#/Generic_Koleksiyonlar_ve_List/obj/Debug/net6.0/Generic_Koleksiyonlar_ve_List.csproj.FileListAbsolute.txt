@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\bin\Debug\net6.0\Generic_Koleksiyonlar_ve_List.exe
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\bin\Debug\net6.0\Generic_Koleksiyonlar_ve_List.deps.json
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\bin\Debug\net6.0\Generic_Koleksiyonlar_ve_List.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\bin\Debug\net6.0\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\bin\Debug\net6.0\Generic_Koleksiyonlar_ve_List.pdb
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\refint\Generic_Koleksiyonlar_ve_List.dll
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.pdb
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\Generic_Koleksiyonlar_ve_List.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Generic_Koleksiyonlar_ve_List\obj\Debug\net6.0\ref\Generic_Koleksiyonlar_ve_List.dll
