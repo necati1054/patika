@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\bin\Debug\net6.0\Kurucu_Metotlar.exe
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\bin\Debug\net6.0\Kurucu_Metotlar.deps.json
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\bin\Debug\net6.0\Kurucu_Metotlar.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\bin\Debug\net6.0\Kurucu_Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\bin\Debug\net6.0\Kurucu_Metotlar.pdb
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\refint\Kurucu_Metotlar.dll
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.pdb
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\Kurucu_Metotlar.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Kurucu_Metotlar\obj\Debug\net6.0\ref\Kurucu_Metotlar.dll
