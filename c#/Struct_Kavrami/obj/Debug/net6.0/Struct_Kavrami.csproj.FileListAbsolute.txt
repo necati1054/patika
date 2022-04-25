@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\bin\Debug\net6.0\Struct_Kavrami.exe
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\bin\Debug\net6.0\Struct_Kavrami.deps.json
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\bin\Debug\net6.0\Struct_Kavrami.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\bin\Debug\net6.0\Struct_Kavrami.dll
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\bin\Debug\net6.0\Struct_Kavrami.pdb
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.dll
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\refint\Struct_Kavrami.dll
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.pdb
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\Struct_Kavrami.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Struct_Kavrami\obj\Debug\net6.0\ref\Struct_Kavrami.dll
