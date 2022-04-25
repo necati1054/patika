@@ -1,0 +1,15 @@
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\bin\Debug\net6.0\Static_Sinif_ve_Ozellikler.exe
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\bin\Debug\net6.0\Static_Sinif_ve_Ozellikler.deps.json
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\bin\Debug\net6.0\Static_Sinif_ve_Ozellikler.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\bin\Debug\net6.0\Static_Sinif_ve_Ozellikler.dll
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\bin\Debug\net6.0\Static_Sinif_ve_Ozellikler.pdb
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.dll
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\refint\Static_Sinif_ve_Ozellikler.dll
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.pdb
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\Static_Sinif_ve_Ozellikler.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Static_Sinif_ve_Ozellikler\obj\Debug\net6.0\ref\Static_Sinif_ve_Ozellikler.dll
