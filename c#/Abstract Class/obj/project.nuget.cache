@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73R+69z4kk1uOrchxmRWLALytPwcsePLaW+6nacWZViWPj54M4j7YJAOtqck8lFqRvEbtJDvtaAURxZzbOEQrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arman\\Desktop\\patika\\c#\\Abstract Class\\InterfaceOrnek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
