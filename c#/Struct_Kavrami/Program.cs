@@ -12,6 +12,7 @@ class Dikdortgen
     public int Kisakenar;
     public int Uzunkenar;
 
+
     public Dikdortgen(){
         Kisakenar = 3;
         Uzunkenar = 4;

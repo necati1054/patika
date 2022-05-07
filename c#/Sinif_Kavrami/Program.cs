@@ -30,6 +30,7 @@ Console.WriteLine("********** ********** **********");
 
 class Çalışan
 {
+
     public string ad;
     public string soyad;
     public int no;

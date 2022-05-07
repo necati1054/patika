@@ -1,0 +1,16 @@
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\Users\arman\Desktop\patika\c#\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\refint\Polymorphism.dll
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
+C:\Users\arman\Desktop\patika\c#\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll

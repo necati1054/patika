@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eu+dTlYVQeTjAXSfM6zYmGuWd5/ZN5vlQyh1vIdvazKxuJs+qSTHa0QUGqsbGvAbMHtWOI9v9Yrbrpk/SN4SKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arman\\Desktop\\patika\\c#\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
