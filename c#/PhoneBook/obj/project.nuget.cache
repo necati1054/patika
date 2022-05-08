@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwR/OwuCNsAfPsbtCyAPWT+nHXzo0WOd+Q7Dr/apv+u+NOdNIGDAB00pcFjMZ/CeITXinOhw48Kfp0/+yapaCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arman\\Desktop\\patika\\c#\\PhoneBook\\PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
