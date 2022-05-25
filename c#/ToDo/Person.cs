@@ -20,5 +20,33 @@ namespace ToDo
             personModel.Soyisim1 = soyisim;
             personn.Add(personModel);
         }
+
+        public string Find(string sayi)
+        {
+            string result = "";
+
+            foreach (var item in personn)
+            {
+                if(item.No1 == sayi)
+                {
+                    result = item.İsim1 + " " + item.Soyisim1; 
+                }
+            }
+            return result;
+        }
+
+        public bool varmı(string sayi)
+        {
+            bool result = false;
+
+            foreach (var item in personn)
+            {
+                if(item.No1 == sayi)
+                {
+                    result = true; 
+                }
+            }
+            return result;
+        }
     }
 }

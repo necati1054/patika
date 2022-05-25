@@ -8,6 +8,7 @@ namespace ToDo
         ToDo toDo = new ToDo();
         person person = new person();
 
+
         public void DefaultPerson()
         {
             person.Add("1","Necati","Arman");
@@ -38,10 +39,22 @@ namespace ToDo
             string baslik = Console.ReadLine();
             Console.WriteLine("Kart İçeriğini Giriniz");
             string içerik = Console.ReadLine();
+            i:
             Console.WriteLine("Kart Sahibinin İD'sini Giriniz");
             string id = Console.ReadLine();
+            if(!person.varmı(id))
+            {
+                Console.WriteLine("Yanlış bir id girdiniz");
+                goto i;
+            }
+            b:
             Console.WriteLine("Kart Büyüklüğünü Giriniz --> XS(1),S(2),M(3),L(4),XL(5)");
             string boy = Console.ReadLine();
+            if(int.Parse(boy)<1 || int.Parse(boy)>5)
+            {
+                Console.WriteLine("yanlış bir büyüklük girdiğiniz 1-5 arasında seçim yapınız");
+                goto b;
+            }
             toDo.Add(baslik,içerik,id,boy);
             Console.WriteLine("İşlem Başarıyla Gerçekleşti");
         }
@@ -59,8 +72,8 @@ namespace ToDo
                 {
                     Console.WriteLine("Başlık =  {0}",item.Baslik1);
                     Console.WriteLine("İçerik  = {0}",item.İçerik1);
-                    Console.WriteLine("Kart Sahibi = {0}",item.KartSahibi1);
-                    Console.WriteLine("kart Büyüklüğü = {0}",item.Büyüklük1);
+                    Console.WriteLine("Kart Sahibi = {0}",person.Find(item.KartSahibi1));
+                    Console.WriteLine("kart Büyüklüğü = {0}",(Büyüklük)int.Parse(item.Büyüklük1)); 
                     Console.WriteLine("");
                 }
             }
@@ -169,13 +182,18 @@ namespace ToDo
                     Console.WriteLine("kart Büyüklüğü = {0}",item.Büyüklük1);
                     Console.WriteLine("Durum = {0}",item.Durum1);
                     Console.WriteLine("****** ****** ****** ******");
-
+                    l:
                     Console.WriteLine("Lütfen taşımak istediğiniz Durum'u seçiniz");
                     Console.WriteLine("(0) TODO");
                     Console.WriteLine("(1) IN PROGRESS");
                     Console.WriteLine("(2) DONE");
 
                     int sayi = int.Parse(Console.ReadLine());
+                    if(sayi<0 || sayi >2)
+                    {
+                        Console.WriteLine("Yanlış bir Büyüklük seçtiniz");
+                        goto l;
+                    }
                     item.Durum1 = sayi;
                 }
             }
