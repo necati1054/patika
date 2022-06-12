@@ -1,3 +1,3 @@
-import {getData} from './app.js'
+import getData from './app.js'
 
-console.log(getData(10));
+console.log(await getData(1));
