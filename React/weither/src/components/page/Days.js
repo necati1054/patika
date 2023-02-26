@@ -9,7 +9,7 @@ const Days = () => {
 
     useEffect(() => {
 
-        const api_key = "apikey 5go7B0XOsEqaASkrtuGOxS:1HSWtomx0KT2wAEouuGuTe";
+        const api_key = "xxx-xxx-xxx-xxx-xxx";
         const getCity = async () => {
             axios.get(
                 `https://api.collectapi.com/weather/getWeather?data.lang=tr&data.city=${city.name}`,
